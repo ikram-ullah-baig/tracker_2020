@@ -101,6 +101,7 @@ input[type='number'] {
 }
 
 .btn:hover {
+  cursor: pointer;
   background-color: #5079ff;
   align-items: center;
   border-bottom: none;
@@ -156,8 +157,4 @@ input[type='number'] {
 
 .list li:hover .delete-btn {
   opacity: 1;
-}
-
-.list:hover {
-
 }
